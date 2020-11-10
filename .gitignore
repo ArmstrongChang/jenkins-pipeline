@@ -1,0 +1,8 @@
+/.gradle/
+/build/
+/bin/
+/.classpath
+/.settings/
+/.project
+.DS_Store
+terraform.tfvars
